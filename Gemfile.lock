@@ -192,7 +192,8 @@ GEM
       nio4r (~> 2.0)
     raabro (1.1.6)
     rack (2.0.7)
-    rack-cors (1.0.3)
+    rack-cors (1.0.5)
+      rack (>= 1.6.0)
     rack-handlers (0.7.3)
       rack
     rack-protection (2.0.7)
